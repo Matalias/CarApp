@@ -64,5 +64,5 @@ cd CarApp
 - The core logic for car functionality (Car and ElectricCar) is located in the Models folder.
 
 
-**Developed by:** [Alias]
+**Developed by:** [AliasOmar]
 **Date:** [14-03-2025]
